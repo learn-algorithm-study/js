@@ -8,9 +8,10 @@ https://www.acmicpc.net/problem/1662
 
 전연규 풀이 - https://mint-raptor-baa.notion.site/1662-1488fc5d905a46ae8c38b682ae7ca31a
 
-### 문제 풀이 전연규
 
 <br />
+
+## 문제 풀이 전연규
 
 ### 문제해석
 
